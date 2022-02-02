@@ -9,3 +9,4 @@ Tools for organizing work:
 - Google Drive: For backing up all my files and sync through all devices
 - Notion: For taking note and oganized my ideas and daily tasks
 - Dircord server: For finding helps from servers that I participate
+Zach Lang was here!
